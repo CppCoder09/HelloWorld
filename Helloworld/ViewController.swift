@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Hellowworld
+//  Helloworld
 //
 //  Created by Jeffrey Wells on 9/10/18.
 //  Copyright © 2018 Jeffrey Wells. All rights reserved.
@@ -24,10 +24,10 @@ class ViewController: UIViewController {
         
         let alertController = UIAlertController(title: "Welcome to My First App",
                                                 message: "Hello World",
-                                                preferredStyle: UIAlertControllerStyle.alert)
+                                                preferredStyle: UIAlertController.Style.alert)
         
         alertController.addAction(UIAlertAction(title: "Ok",
-                                                style: UIAlertActionStyle.default,
+                                                style: UIAlertAction.Style.default,
                                                 handler: nil))
         
         present(alertController,

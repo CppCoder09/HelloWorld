@@ -1,6 +1,6 @@
 //
-//  HellowworldUITests.swift
-//  HellowworldUITests
+//  HelloworldUITests.swift
+//  HelloworldUITests
 //
 //  Created by Jeffrey Wells on 9/10/18.
 //  Copyright © 2018 Jeffrey Wells. All rights reserved.

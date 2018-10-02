@@ -13,7 +13,7 @@
 		F000760421476FB900C4E840 /* Helloworld.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F000760221476FB900C4E840 /* Helloworld.xcdatamodeld */; };
 		F000760621476FBA00C4E840 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F000760521476FBA00C4E840 /* Assets.xcassets */; };
 		F000760921476FBA00C4E840 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F000760721476FBA00C4E840 /* LaunchScreen.storyboard */; };
-		F000761421476FBA00C4E840 /* HellowworldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F000761321476FBA00C4E840 /* HellowworldTests.swift */; };
+		F000761421476FBA00C4E840 /* HelloworldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F000761321476FBA00C4E840 /* HelloworldTests.swift */; };
 		F000761F21476FBA00C4E840 /* HelloworldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F000761E21476FBA00C4E840 /* HelloworldUITests.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,14 +23,14 @@
 			containerPortal = F00075F021476FB800C4E840 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F00075F721476FB800C4E840;
-			remoteInfo = Hellowworld;
+			remoteInfo = Helloworld;
 		};
 		F000761B21476FBA00C4E840 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = F00075F021476FB800C4E840 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F00075F721476FB800C4E840;
-			remoteInfo = Hellowworld;
+			remoteInfo = Helloworld;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -39,12 +39,12 @@
 		F00075FB21476FB900C4E840 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F00075FD21476FB900C4E840 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F000760021476FB900C4E840 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F000760321476FB900C4E840 /* Hellowworld.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Hellowworld.xcdatamodel; sourceTree = "<group>"; };
+		F000760321476FB900C4E840 /* Helloworld.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Helloworld.xcdatamodel; sourceTree = "<group>"; };
 		F000760521476FBA00C4E840 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F000760821476FBA00C4E840 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F000760A21476FBA00C4E840 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F000760F21476FBA00C4E840 /* HelloworldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloworldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F000761321476FBA00C4E840 /* HellowworldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HellowworldTests.swift; sourceTree = "<group>"; };
+		F000761321476FBA00C4E840 /* HelloworldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloworldTests.swift; sourceTree = "<group>"; };
 		F000761521476FBA00C4E840 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F000761A21476FBA00C4E840 /* HelloworldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloworldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F000761E21476FBA00C4E840 /* HelloworldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloworldUITests.swift; sourceTree = "<group>"; };
@@ -113,7 +113,7 @@
 		F000761221476FBA00C4E840 /* HelloworldTests */ = {
 			isa = PBXGroup;
 			children = (
-				F000761321476FBA00C4E840 /* HellowworldTests.swift */,
+				F000761321476FBA00C4E840 /* HelloworldTests.swift */,
 				F000761521476FBA00C4E840 /* Info.plist */,
 			);
 			path = HelloworldTests;
@@ -144,7 +144,7 @@
 			dependencies = (
 			);
 			name = Helloworld;
-			productName = Hellowworld;
+			productName = Helloworld;
 			productReference = F00075F821476FB900C4E840 /* Helloworld.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -162,7 +162,7 @@
 				F000761121476FBA00C4E840 /* PBXTargetDependency */,
 			);
 			name = HelloworldTests;
-			productName = HellowworldTests;
+			productName = HelloworldTests;
 			productReference = F000760F21476FBA00C4E840 /* HelloworldTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
@@ -180,7 +180,7 @@
 				F000761C21476FBA00C4E840 /* PBXTargetDependency */,
 			);
 			name = HelloworldUITests;
-			productName = HellowworldUITests;
+			productName = HelloworldUITests;
 			productReference = F000761A21476FBA00C4E840 /* HelloworldUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
@@ -196,13 +196,16 @@
 				TargetAttributes = {
 					F00075F721476FB800C4E840 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 					};
 					F000760E21476FBA00C4E840 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 						TestTargetID = F00075F721476FB800C4E840;
 					};
 					F000761921476FBA00C4E840 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 						TestTargetID = F00075F721476FB800C4E840;
 					};
 				};
@@ -269,7 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F000761421476FBA00C4E840 /* HellowworldTests.swift in Sources */,
+				F000761421476FBA00C4E840 /* HelloworldTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -441,9 +444,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.Hellowworld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.Helloworld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -459,9 +462,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.Hellowworld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.Helloworld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -473,15 +476,15 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7RJEBU2986;
-				INFOPLIST_FILE = HellowworldTests/Info.plist;
+				INFOPLIST_FILE = HelloworldTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HellowworldTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HelloworldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Helloworld.app/Helloworld";
 			};
@@ -494,15 +497,15 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7RJEBU2986;
-				INFOPLIST_FILE = HellowworldTests/Info.plist;
+				INFOPLIST_FILE = HelloworldTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HellowworldTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HelloworldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Helloworld.app/Helloworld";
 			};
@@ -514,17 +517,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7RJEBU2986;
-				INFOPLIST_FILE = HellowworldUITests/Info.plist;
+				INFOPLIST_FILE = HelloworldUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HellowworldUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HelloworldUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Hellowworld;
+				TEST_TARGET_NAME = Helloworld;
 			};
 			name = Debug;
 		};
@@ -534,17 +537,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7RJEBU2986;
-				INFOPLIST_FILE = HellowworldUITests/Info.plist;
+				INFOPLIST_FILE = HelloworldUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HellowworldUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tahoesoftware.HelloworldUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Hellowworld;
+				TEST_TARGET_NAME = Helloworld;
 			};
 			name = Release;
 		};
@@ -593,9 +596,9 @@
 		F000760221476FB900C4E840 /* Helloworld.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				F000760321476FB900C4E840 /* Hellowworld.xcdatamodel */,
+				F000760321476FB900C4E840 /* Helloworld.xcdatamodel */,
 			);
-			currentVersion = F000760321476FB900C4E840 /* Hellowworld.xcdatamodel */;
+			currentVersion = F000760321476FB900C4E840 /* Helloworld.xcdatamodel */;
 			path = Helloworld.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
